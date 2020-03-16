@@ -7,7 +7,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.FriendlyUrls.Resolvers;
 
-namespace ws_tienda.@virtual{
+namespace tiendaVirtual
+{
     public partial class ViewSwitcher : System.Web.UI.UserControl
     {
         protected string CurrentView { get; private set; }

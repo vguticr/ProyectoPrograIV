@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ws_tienda.@virtual {
+namespace tiendaVirtual {
     
     
     public partial class ViewSwitcher {

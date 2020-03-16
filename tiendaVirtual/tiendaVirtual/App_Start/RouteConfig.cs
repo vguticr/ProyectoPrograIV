@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace ws_tienda.@virtual
+namespace tiendaVirtual
 {
     public static class RouteConfig
     {
